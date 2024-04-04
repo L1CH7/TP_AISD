@@ -1,6 +1,7 @@
 .vscode/
 output/
 seminars/
+.DS_Store
 *.temp
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,c++,cmake
